@@ -1,2 +1,5 @@
-# simple_ml_for_learn
-Este é um exemplo de um algoritmo de Machine Learning bem simples utilizado apenas para fins didáticos.
+# Modelo de Machine Learning simple
+
+Este é um exemplo de Machine Learning muito simples criado para fins de aprendizado.
+
+A modelo "aprende" quando você deve levar um casaco para outros países, com base na temperatura em celsius.
